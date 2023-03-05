@@ -1,6 +1,6 @@
 # Files I used for JavaScript study
 
-In this repository you will find files from,
+In this repository you will find files from<br/>
 👉 our dear 'Hello world'<br/>
 👉 through functions<br/>
 👉 classes<br/>
